@@ -46,6 +46,12 @@ const About = () => {
               ></path>
             </svg>
           </a>
+
+
+
+        
+
+
         </div>
       </div>
     </section>
